@@ -20,7 +20,7 @@
     "libraries"
   ],
   "dependencies": {
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "single-line-log": "^1.1.2",
     "tiny-timer": "^1.4.0"
   }
